@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Musto @mustafa-sarshar
-- 👀 I’m interested in Research and Programming.
-- 🌱 I’m currently learning modern Front-End and Back-End Technologies like React.js, Node.js and etc.
-- 💞️ I’m looking to collaborate on Online Health and Sports Coaching
+- 👋 Hi, I’m Musto @mustafa-sarshar.
+- 👀 I’m interested in Research, AI and Programming.
+- 🌱 I’m have solid experience working with modern Front-End and Back-End stacks, including MERN and MEAN.
+- 💞️ I’m looking to collaborate on Online Health and Sports Coaching.
 - 📫 How to reach me -> https://mustafa-sarshar.github.io/portfolio-website/
 
 <!---
